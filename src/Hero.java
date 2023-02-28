@@ -44,7 +44,7 @@ public class Hero extends Entity{
         this.xp = 0;
 
         for (int type = 0; type < this.inventory.length ; type++) {
-            for (int i = 0; i < this.inventory[i].length ; i++) {
+            for (int i = 0; i < this.inventory[type].length ; i++) {
                     this.inventory[type][i] = empty;
             }
         }

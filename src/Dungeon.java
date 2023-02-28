@@ -88,8 +88,6 @@ public class Dungeon {
         for (int x = 0; x < this.height; x++) {
             for (int y = 0; y < this.width; y++) {
                 System.out.print("  "+ map[x][y]);
-                System.out.print("  "+ map[x][y]);
-                System.out.print("  "+ map[x][y]);
             }
             System.out.println();
         }

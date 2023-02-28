@@ -26,16 +26,16 @@ public class Dungeon {
 
         this.map = new char[height][width];
 
-        for (int i = 0; i < this.height; i++) {
-            for (int j = 0; j < this.width; j++) {
-                if(i == 0 || i == this.height-1 || j==0 || j == this.width-1)
-                    this.map[i][j] = 'X';
+        for (int x = 0; x < this.height; x++) {
+            for (int y = 0; y < this.width; y++) {
+                if(x == 0 || x == this.height-1 || y ==0 || y == this.width-1)
+                    this.map[x][y] = 'X';
                 else
-                    this.map[i][j] = ' ';
+                    this.map[x][y] = ' ';
             }
         }
-        for (int[] i : this.walls){
-            this.map[i[0]][i[1]] = 'X';
+        for (int[] wall : this.walls){
+            this.map[wall[0]][wall[1]] = 'X';
         }
         for (Chest c : this.chestList){
             this.map[c.getX()][c.getY()] = 'C' ;
@@ -85,9 +85,11 @@ public class Dungeon {
         char initChar = this.map[player.getX()][player.getY()];
         this.map[player.getX()][player.getY()] = 'P';
         System.out.println("la carte : ");
-        for (int i = 0; i < this.height; i++) {
-            for (int j = 0; j < this.width; j++) {
-                System.out.print("  "+ map[i][j]);
+        for (int x = 0; x < this.height; x++) {
+            for (int y = 0; y < this.width; y++) {
+                System.out.print("  "+ map[x][y]);
+                System.out.print("  "+ map[x][y]);
+                System.out.print("  "+ map[x][y]);
             }
             System.out.println();
         }

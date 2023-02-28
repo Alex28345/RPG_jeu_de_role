@@ -43,9 +43,9 @@ public class Hero extends Entity{
         this.setVelocity(10);
         this.xp = 0;
 
-        for (int i = 0; i < this.inventory.length ; i++) {
-            for (int j = 0; j < this.inventory[i].length ; j++) {
-                    this.inventory[i][j] = empty;
+        for (int type = 0; type < this.inventory.length ; type++) {
+            for (int i = 0; i < this.inventory[i].length ; i++) {
+                    this.inventory[type][i] = empty;
             }
         }
         this.inventory[0][0] = this.initialWeapon;
@@ -192,8 +192,8 @@ public class Hero extends Entity{
     public Item[] getPotions() {
         return inventory[2];
     }
-    public Potion getPotionByIndex(int i) {
-        return (Potion) this.inventory[2][i];
+    public Potion getPotionByIndex(int j) {
+        return (Potion) this.inventory[2][j];
     }
     public void showPotions() {
         int cpt = 1;
@@ -216,15 +216,15 @@ public class Hero extends Entity{
                 indice = 2;
                 break;
         }
-        for (int i = 0 ; i < this.inventory[indice].length; i++) {
-            if (this.inventory[indice][i].getType() == Item.type.EMPTY){
+        for (int y = 0 ; y < this.inventory[indice].length; y++) {
+            if (this.inventory[indice][y].getType() == Item.type.EMPTY){
                 if(indice == 0){
                     this.setAttack(this.getAttack()+3);
                     Interface.setColor(Interface.Color.GREEN);
                     System.out.println("de meilleurs degats avec cette arme !");
                     Interface.setColor(Interface.Color.RESET);
                 }
-                this.inventory[indice][i] = item;
+                this.inventory[indice][y] = item;
                 Interface.setColor(Interface.Color.GREEN);
                 System.out.println("[+] "+item.getName() );
                 Interface.setColor(Interface.Color.RESET);

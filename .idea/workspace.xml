@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b6f73f-1b01-4508-ad8a-7981fffcd46a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dungeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dungeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hero.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3b6f73f-1b01-4508-ad8a-7981fffcd46a" name="Changes" comment="bugs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,11 +95,30 @@
       <workItem from="1677434184714" duration="1644000" />
       <workItem from="1677493015469" duration="1139000" />
       <workItem from="1677517193913" duration="6611000" />
-      <workItem from="1677592475405" duration="3083000" />
+      <workItem from="1677592475405" duration="3387000" />
     </task>
+    <task id="LOCAL-00001" summary="bugs">
+      <created>1677597567768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677597567768</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bugs">
+      <created>1677597585256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677597585256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs" />
   </component>
 </project>

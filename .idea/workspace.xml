@@ -4,53 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9f0908-6871-471c-90d5-f6c57d2f5309" name="Changes" comment="variables boucles">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RPG_jeu_de_role.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Boss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Chest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Dungeon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Entity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Hero$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Interface$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Interface$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Item$type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Monster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Potion$potionType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tp_jeu_de_role/Potion.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e3b6f73f-1b01-4508-ad8a-7981fffcd46a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="3c208b8a-d21c-4221-8da9-66cb099d63d2" />
-        <option name="url" value="https://github.com/Alex28345/RPG_jeu_de_role.git" />
-      </UrlAndAccount>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MMtnK0NmNn6hvXM7nXHm7ZtBKu" />
+  <component name="ProjectId" id="2LPYPLB2h0t0Q93RLjs2qkNg9MA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,46 +30,71 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Alexandre/Documents/OneDrive/Tp_jeu_de_role",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="Tp_jeu_de_role" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tp_jeu_de_role" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d9f0908-6871-471c-90d5-f6c57d2f5309" name="Changes" comment="" />
-      <created>1677589444667</created>
+      <changelist id="e3b6f73f-1b01-4508-ad8a-7981fffcd46a" name="Changes" comment="" />
+      <created>1675774162348</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677589444667</updated>
-      <workItem from="1677589445962" duration="2052000" />
+      <updated>1675774162348</updated>
+      <workItem from="1675774163586" duration="464000" />
+      <workItem from="1675774742207" duration="11220000" />
+      <workItem from="1675875497922" duration="2326000" />
+      <workItem from="1675892873462" duration="5647000" />
+      <workItem from="1675898619799" duration="521000" />
+      <workItem from="1676132266323" duration="266000" />
+      <workItem from="1676202159410" duration="2231000" />
+      <workItem from="1676205367393" duration="429000" />
+      <workItem from="1676282911164" duration="1299000" />
+      <workItem from="1676378105870" duration="11983000" />
+      <workItem from="1676532954929" duration="11823000" />
+      <workItem from="1677060304388" duration="199000" />
+      <workItem from="1677061476515" duration="5682000" />
+      <workItem from="1677080555608" duration="7567000" />
+      <workItem from="1677161140157" duration="12527000" />
+      <workItem from="1677234836662" duration="7426000" />
+      <workItem from="1677247106331" duration="17000" />
+      <workItem from="1677248248979" duration="49000" />
+      <workItem from="1677248964223" duration="315000" />
+      <workItem from="1677434184714" duration="1644000" />
+      <workItem from="1677493015469" duration="1139000" />
+      <workItem from="1677517193913" duration="6611000" />
     </task>
-    <task id="LOCAL-00001" summary="start">
-      <created>1677589690715</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1677589690715</updated>
-    </task>
-    <task id="LOCAL-00002" summary="variables boucles">
-      <created>1677590696099</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1677590696099</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="start" />
-    <MESSAGE value="variables boucles" />
-    <option name="LAST_COMMIT_MESSAGE" value="variables boucles" />
   </component>
 </project>
